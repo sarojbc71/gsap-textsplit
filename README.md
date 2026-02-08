@@ -1,1 +1,1 @@
-# gsap-examples
+# gsap-split text examples
